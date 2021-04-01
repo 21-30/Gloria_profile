@@ -1,0 +1,81 @@
+
+  
+
+  
+
+  .fb{
+      
+    margin-top: 3vh;
+    align-self: start;
+    background-image: url(../icons/sc-icons/Facebook.svg);
+    filter: opacity(30%);
+}
+
+.fb:hover{
+    width: 4vw;
+    height: 4vw;
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    filter: opacity(100%);
+}
+
+.in{
+    margin-top: 3vh;
+    align-self: start;
+    background-image: url(../icons/sc-icons/Instagram.svg);
+    filter: opacity(30%);
+}
+
+.in:hover{
+    width: 4vw;
+    height: 4vw;
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    filter: opacity(100%);
+}
+.tw{
+    margin-top: 3vh;
+    align-self: start;
+    background-image: url(../icons/sc-icons/Twitter.svg);
+    filter: opacity(30%);
+}
+
+.tw:hover{
+    width: 4vw;
+    height: 4vw;
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    filter: opacity(100%);
+}
+
+.ln{
+    width: 4vw;
+    height: 4vw;
+    margin-top: 1vh;
+    align-self: start;
+    background-image: url(../icons/sc-icons/LinkedIn.svg);
+    filter: opacity(30%);
+}
+
+.ln:hover{
+    width: 5vw;
+    height: 5vw;
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    filter: opacity(100%);
+}
+.pi{
+    
+    margin-top: 1vh;
+    align-self: start;
+    background-image: url(../icons/sc-icons/Pinetrest.svg);
+    filter: opacity(30%);
+}
+
+.pi:hover{
+    width: 4vw;
+    height: 4vw;
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    filter: opacity(100%);
+}
